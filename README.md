@@ -2,12 +2,10 @@
 
 🎓 I'm a 2nd-year Engineering student passionate about Machine Learning, Data Science, and solving real-world problems with AI.
 
-🚀 I'm currently building end-to-end ML projects and preparing to land a paid internship as an ML Engineer at a top tech company.
+🚀 I'm currently building end-to-end ML projects.
 
 🧠 Currently Learning:
-- Advanced Machine Learning (following Krish Naik’s playlist)
-- Deep Learning using TensorFlow & PyTorch
-- Time Series Forecasting, NLP, Computer Vision
+- Machine Learning.
 
 💻 Tech Stack:
 `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Matplotlib` `Seaborn` `Streamlit` `SQL`
