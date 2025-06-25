@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruv Mittal
 
-<!--
-**dhruvmittal41/dhruvmittal41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year Engineering student passionate about Machine Learning, Data Science, and solving real-world problems with AI.
 
-Here are some ideas to get you started:
+🚀 I'm currently building end-to-end ML projects and preparing to land a paid internship as an ML Engineer at a top tech company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Learning:
+- Advanced Machine Learning (following Krish Naik’s playlist)
+- Deep Learning using TensorFlow & PyTorch
+- Time Series Forecasting, NLP, Computer Vision
+
+💻 Tech Stack:
+`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Matplotlib` `Seaborn` `Streamlit` `SQL`
+
+📂 Featured Projects:
+
+
+📬 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/dhruv-mittal-a701b1330/)
+- [Kaggle](https://www.kaggle.com/mittaldhruv41)
+
+🛠️ Let's build the future with ML!
