@@ -3,7 +3,10 @@
 🎓 2nd-year Engineering Student | 🤖 Passionate about **Machine Learning, AI & Web Development**  
 💡 I love **programming, problem-solving, and building end-to-end applications**.  
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=62b6cb&lines=Code;Debug;Repeat;)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=500&lines=💻+Code;🐞+Debug;🔁+Repeat" />
+</p>
+
 
 ---
 
