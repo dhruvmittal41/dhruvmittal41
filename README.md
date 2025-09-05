@@ -4,8 +4,9 @@
 💡 I love **programming, problem-solving, and building end-to-end applications**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=500&lines=💻+Code;🐞+Debug;🔁+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=💻+Code;🐞+Debug;🔁+Repeat&color=3B82F6&color=EF4444&color=10B981&cursor=true" />
 </p>
+
 
 
 ---
