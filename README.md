@@ -75,7 +75,7 @@
 ## 🕯️ The Torch of Persistence
 
 <p align="center">
-  <img src="./assets/torch.svg" alt="Torch icons" />
+  <img src="assets/Gemini_Generated_Image_4modpw4modpw4mod-Photoroom.svg alt="Torch icons" />
 </p>
 
 <p align="center">
