@@ -12,9 +12,9 @@
 🎓 2nd-year Engineering Student | 🤖 Passionate about **Machine Learning, AI & Web Development** 💡 I love **programming, problem-solving, and building end-to-end applications**.  
 🧩 Always exploring how **hardware meets software** through **Embedded Systems** and **IoT**.
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/Gemini_Generated_Image_gsawe0gsawe0gsaw-removebg-preview.svg" alt="dragon motif" />
-</p>
+</p> -->
 
 ---
 
@@ -24,9 +24,9 @@
 - 🔩 Embedded Systems & Arduino Magic  
 - ☁️ Web Development (Full-Stack)  
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/Gemini_Generated_Image_hq749mhq749mhq74-Photoroom.svg" alt="sword divider" width="70%" />
-</p>
+</p> -->
 
 ---
 
@@ -75,11 +75,9 @@
 ## 🕯️ The Torch of Persistence
 
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_4modpw4modpw4mod-Photoroom.svg" alt="Torch icons" />
-</p>
-
-<p align="center">
+  <img src="assets/Gemini_Generated_Image_4modpw4modpw4mod-Photoroom.svg" alt="Torch icon" height="40" style="vertical-align:middle; margin-right:10px;" />
   <em>“A true knight never stops learning; every bug slain forges a sharper mind.”</em>
+  <img src="assets/Gemini_Generated_Image_4modpw4modpw4mod-Photoroom.svg" alt="Torch icon" height="40" style="vertical-align:middle; margin-left:10px;" />
 </p>
 
 ---
