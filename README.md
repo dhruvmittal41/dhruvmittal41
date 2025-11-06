@@ -83,9 +83,9 @@
 ---
 
 <p align="center">
-  <img src="./assets/final-divider.svg" alt="final decorative divider" width="60%" />
+  <img src="assets/Gemini_Generated_Image_ndlgkjndlgkjndlg-Photoroom.svg" alt="final decorative divider" width="60%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/dragon-emblem.svg" alt="dragon emblem" />
-</p>
+</p> -->
