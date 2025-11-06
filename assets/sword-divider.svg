@@ -1,0 +1,12 @@
+<svg width="70%" height="36" viewBox="0 0 800 36" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="sword divider">
+  <defs>
+    <linearGradient id="blade" x1="0" x2="1"><stop offset="0" stop-color="#E6EEF6"/><stop offset="1" stop-color="#A8C0D8"/></linearGradient>
+    <linearGradient id="hilt" x1="0" x2="1"><stop offset="0" stop-color="#C68642"/><stop offset="1" stop-color="#7A4B2A"/></linearGradient>
+  </defs>
+  <g transform="translate(0,0)">
+    <rect x="0" y="14" width="800" height="8" fill="url(#blade)" rx="4" />
+    <ellipse cx="400" cy="18" rx="40" ry="14" fill="url(#hilt)"/>
+    <rect x="392" y="6" width="16" height="24" fill="#5A4A42"/>
+    <rect x="398" y="0" width="4" height="6" fill="#3C3C3C"/>
+  </g>
+</svg>
