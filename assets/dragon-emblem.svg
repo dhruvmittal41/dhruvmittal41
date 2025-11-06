@@ -1,0 +1,6 @@
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="dragon emblem">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#7dd3fc"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  </defs>
+  <path d="M10 55 C20 40 38 30 60 30 C82 30 100 22 110 18 C100 30 88 40 72 48 C56 56 40 64 20 60 Z" fill="url(#g1)" stroke="#0369a1" stroke-width="1.2"/>
+</svg>
