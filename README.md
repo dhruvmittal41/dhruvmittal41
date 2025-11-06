@@ -25,7 +25,7 @@
 - ☁️ Web Development (Full-Stack)  
 
 <p align="center">
-  <img src="./assets/sword-divider.svg" alt="sword divider" width="70%" />
+  <img src="assets/Gemini_Generated_Image_hq749mhq749mhq74-Photoroom.svg" alt="sword divider" width="70%" />
 </p>
 
 ---
