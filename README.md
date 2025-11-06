@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Medieval banner with castle" />
+  <img src="./assets/Gemini_Generated_Image_af0n9naf0n9naf0n.svg alt="Medieval banner with castle" />
 </p>
 
 <p align="center">
