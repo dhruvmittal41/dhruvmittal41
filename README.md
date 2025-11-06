@@ -13,7 +13,7 @@
 🧩 Always exploring how **hardware meets software** through **Embedded Systems** and **IoT**.
 
 <p align="center">
-  <img src="./assets/dragon.svg" alt="dragon motif" />
+  <img src="assets/Gemini_Generated_Image_gsawe0gsawe0gsaw-removebg-preview.svg" alt="dragon motif" />
 </p>
 
 ---
