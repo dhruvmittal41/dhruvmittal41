@@ -1,0 +1,11 @@
+<svg width="520" height="50" viewBox="0 0 520 50" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="tgrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#EAB308"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="50" rx="8" ry="8" fill="transparent"></rect>
+  <text x="260" y="33" font-family="serif" font-weight="700" font-size="20" text-anchor="middle" fill="url(#tgrad)">⚔️ Forge Code · 🐉 Slay Bugs · 🏰 Build Empires</text>
+</svg>
