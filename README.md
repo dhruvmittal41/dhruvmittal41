@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg alt="Medieval banner with castle" />
+  <img src="./assets/banner.svg />
 </p>
 
 <p align="center">
