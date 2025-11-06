@@ -1,0 +1,7 @@
+<svg width="60%" height="60" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="final decorative divider">
+  <defs>
+    <linearGradient id="fin" x1="0" x2="1"><stop offset="0" stop-color="#FFD27A"/><stop offset="1" stop-color="#E6C07C"/></linearGradient>
+  </defs>
+  <rect x="0" y="48" width="1200" height="24" rx="12" fill="url(#fin)" />
+  <text x="600" y="84" font-size="18" text-anchor="middle" font-family="serif" fill="#3b2f1f">⚜️ May your commits be clean, and your merges conflict-free ⚜️</text>
+</svg>
