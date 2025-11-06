@@ -49,15 +49,6 @@
 
 ---
 
-## 🏰 My Quests (Projects)
-
-| ⚔️ Artifact | 📜 Description | 🔮 Magic Used |
-|-------------|----------------|---------------|
-| 🛰️ **SatDump Mod** | Automated satellite signal capture and pass scheduling | Python, Skyfield |
-| 🎵 **BeatVote** | Real-time collaborative music voting portal | MERN Stack |
-| ⚙️ **Field Unit** | IoT satellite tracking automation & control | FastAPI, Arduino |
-
----
 
 ## ⚗️ Stats of the Realm
 
