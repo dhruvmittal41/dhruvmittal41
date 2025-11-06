@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_af0n9naf0n9naf0n.svg"/>
+  <img src="assets/Gemini_Generated_Image_af0n9naf0n9naf0n (1).svg"/>
 </p>
 
 <p align="center">
