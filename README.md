@@ -1,167 +1,224 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Dhruv%20Mittal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Engineer%20%7C%20Edge%20ML%20%7C%20Chip%20Design%20for%20AI&descAlignY=55&descSize=17" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A8D8FF&center=true&vCenter=true&width=650&height=50&lines=Embedded+Systems+%26+Firmware+Engineer;Edge+ML+%7C+TinyML+%7C+On-device+Inference;Exploring+Chip+%26+IC+Design+for+AI;Building+hardware+that+thinks+at+the+edge+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060c18,40:0b1e3a,80:0d3060,100:1155a6&height=200&section=header&text=DHRUV%20MITTAL&fontSize=58&fontColor=c9e4ff&fontAlignY=45&desc=Embedded%20Engineer%20%7C%20Edge%20ML%20%7C%20Chip%20Design%20for%20AI&descAlignY=68&descSize=15&descColor=6aaed6" width="100%"/>
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=6AAED6&center=true&vCenter=true&width=680&height=42&lines=⚡+Bare-metal+firmware+%7C+SPI+%7C+UART+%7C+I2C+%7C+RTOS;🔬+TinyML+%7C+On-device+Inference+%7C+Model+Quantization;🔲+RTL+Design+%7C+Verilog+%7C+AI+Accelerator+Architecture;🛠️+Hardware-Software+Co-design+at+the+edge)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
 ---
 
-<img align="right" alt="chip animation" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Embedded AI" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-### 🧠 About Me
+### 〔 `whoami` 〕
 
-🎓 &nbsp;**B.Tech EE** — 2nd year undergraduate  
-⚙️ &nbsp;Focused on **embedded firmware and hardware-software co-design**  
-🔬 &nbsp;Interested in **AI chip architecture and IC design for inference**  
-📡 &nbsp;Working at the intersection of **edge ML and embedded systems**  
-🛠️ &nbsp;I write firmware close to metal — drivers, state machines, protocols  
-🌱 &nbsp;Currently exploring **TinyML, hardware accelerators, and RTL design**  
-⚡ &nbsp;I read datasheets for fun
+```yaml
+Engineer    : Dhruv Mittal
+Degree      : B.Tech Electrical Engineering  [2nd Year]
+Origin      : India  🇮🇳
+Core        :
+  ├─ Embedded Firmware      → bare-metal C/C++, drivers, FSMs
+  ├─ Edge ML / TinyML       → MCU inference, quantization
+  ├─ Chip & IC Design       → RTL, AI accelerator architecture
+  └─ IoT + Full-Stack       → sensor systems + React/Node tools
+Now         : Bridging silicon and intelligence
+Mission     : Design AI chips that compute at the absolute edge
+Secret      : Reads datasheets for fun  // 0x01 = confirmed ✓
+```
 
 <br clear="right"/>
 
 ---
 
-### 💭 How I Think
-
-```c
-typedef struct {
-    char*    degree;
-    char*    focus[4];
-    char*    currently_building;
-    char*    long_term_goal;
-} Engineer;
-
-Engineer dhruv = {
-    .degree             = "B.Tech Electrical Engineering",
-    .focus              = {
-                            "Embedded Firmware (C/C++, bare-metal)",
-                            "Edge ML & On-device Inference (TinyML)",
-                            "IC & Chip Design for AI Accelerators",
-                            "Hardware-Software Co-design"
-                          },
-    .currently_building = "Low-level systems that bridge silicon and intelligence",
-    .long_term_goal     = "Design chips that run AI at the absolute edge"
-};
-```
-
----
-
-### 🛠️ Tech Stack
+### 〔 `cat /proc/skills` 〕
 
 <div align="center">
 
 **Embedded & Hardware**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
-![MPLAB](https://img.shields.io/badge/MPLAB%20X-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,arduino,verilog&theme=dark&perline=4)](https://skillicons.dev)
 
 **Edge ML & AI**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,numpy&theme=dark&perline=4)](https://skillicons.dev)
 
 **Systems & Web**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F4E04D?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-1F232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,postgres&theme=dark&perline=5)](https://skillicons.dev)
 
-**Tools**
+**Toolchain**
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,bash&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🔭 Areas of Focus
+### 〔 `./build --profile` 〕
+
+```c
+/* ================================================================
+   ENGINEER PROFILE  ·  Rev 3.0  ·  dhruvmittal41
+   ================================================================ */
+#include <stdlib.h>
+
+typedef enum { FIRMWARE, TINYML, RTL_DESIGN, IOT, FULLSTACK } Domain_t;
+
+typedef struct {
+    const char   *name;
+    const char   *degree;
+    Domain_t      focus[5];
+    const char   *stack[5];
+    const char   *mission;
+    uint8_t       datasheet_reader;   /* 0x01 = yes */
+} Engineer_t;
+
+static const Engineer_t dhruv = {
+    .name             = "Dhruv Mittal",
+    .degree           = "B.Tech EE  (2nd Year)",
+    .focus            = { FIRMWARE, TINYML, RTL_DESIGN, IOT, FULLSTACK },
+    .stack            = { "C/C++", "Verilog", "Python", "TF-Lite", "React" },
+    .mission          = "Design AI accelerator chips for edge inference",
+    .datasheet_reader = 0x01                         /* confirmed */
+};
+
+int main(void) {
+    printf("[BOOT]  Engineer  : %s\n",  dhruv.name);
+    printf("[INIT]  Degree    : %s\n",  dhruv.degree);
+    printf("[RUN]   Mission   : %s\n",  dhruv.mission);
+    return EXIT_SUCCESS;  /* no bugs, only undocumented features */
+}
+```
+
+---
+
+### 〔 `ls -la ./domains` 〕
 
 <div align="center">
 
-| Domain | What I'm Doing |
-|---|---|
-| ⚙️ **Embedded Firmware** | Bare-metal C, SPI/UART/I2C drivers, RTOS concepts, state machines |
-| 🧠 **Edge ML / TinyML** | On-device inference, model quantisation, MCU deployment |
-| 🔲 **Chip & IC Design** | RTL design with Verilog, AI accelerator architecture concepts |
-| 📡 **IoT Systems** | Sensor integration, SD logging, low-power design patterns |
-| 💻 **Full-Stack** | React + Node backends, building tools that support hardware work |
+| Domain | Work | Stack |
+|:---|:---|:---|
+| ⚙️ **Embedded Firmware** | Bare-metal C, SPI / I2C / UART drivers, RTOS, state machines | `C` `C++` `MPLAB` `Arduino` |
+| 🧠 **Edge ML / TinyML** | On-device inference, model quantization, MCU deployment | `TF-Lite` `Python` `NumPy` |
+| 🔲 **Chip & IC Design** | RTL design in Verilog, AI accelerator architecture & synthesis | `Verilog` `HDL` |
+| 📡 **IoT Systems** | Sensor fusion, SD data logging, low-power design patterns | `C` `I2C` `SPI` `ADC` |
+| 💻 **Full-Stack Tools** | React + Node backends that support and visualize hardware work | `JS` `React` `Express` `SQL` |
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 〔 `htop` 〕
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmittal41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvmittal41&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvmittal41&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=6aaed6&icon_color=6aaed6&text_color=c9d1d9&bg_color=0d1117&border_radius=10" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvmittal41&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6aaed6&ring=1155a6&fire=6aaed6&currStreakLabel=6aaed6&border_radius=10" width="49%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmittal41&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
-</div>
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvmittal41&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvmittal41&bg_color=1a1b27&color=a8d8ff&line=a8d8ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-### 📊 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmittal41&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvmittal41&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruvmittal41&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruvmittal41&theme=tokyonight&utcOffset=5.5" width="32%"/>
-</div>
-
----
-
-### 📫 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-dhruvmittal41-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvmittal41)
-[![Email](https://img.shields.io/badge/Email-mittaldhruv41@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittaldhruv41@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvmittal41)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmittal41&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6aaed6&text_color=c9d1d9&langs_count=8&border_radius=10" width="38%"/>
 
 </div>
 
 ---
 
+### 〔 `git log --all --graph` 〕
+
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dhruvmittal41&label=Profile+Views&color=a8d8ff&style=flat-square)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvmittal41&bg_color=0d1117&color=6aaed6&line=1155a6&point=c9e4ff&area_color=0b1e3a&area=true&hide_border=true&custom_title=Commit+Activity+Timeline&radius=6" width="100%"/>
 
-*"The best abstraction is the one closest to the hardware."*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+---
+
+### 〔 `cat /sys/status` 〕
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║               ◈  SILICON STATUS MONITOR  ◈                   ║
+╠══════════════════════════╦════════════════════════════════════╣
+║  Protocols               ║  SPI  ·  I2C  ·  UART  ·  GPIO   ║
+║  ML Pipeline             ║  Train → Quantize → Compile → MCU ║
+║  HDL / RTL               ║  Design  ·  Simulation  ·  ✓      ║
+║  Power Management        ║  Low-power architecture  ·  ✓     ║
+║  RTOS Concepts           ║  Tasks  ·  Queues  ·  Semaphores  ║
+║  Current Build           ║  Intelligence at the silicon edge  ║
+╚══════════════════════════╩════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+### 〔 `ls ./stats --extended` 〕
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvmittal41&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&title_color=6aaed6&icon_color=6aaed6&text_color=c9d1d9&bg_color=0d1117&border_radius=10" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmittal41&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6aaed6&text_color=c9d1d9&langs_count=6&border_radius=10" width="40%" />
+
+</div>
+
+---
+
+### 〔 `neofetch` 〕
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmittal41&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvmittal41&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruvmittal41&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruvmittal41&theme=github_dark&utcOffset=5.5" width="32%"/>
+
+</div>
+
+---
+
+### 〔 `ping --connect` 〕
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-dhruvmittal41-0d1117?style=for-the-badge&logo=github&logoColor=c9e4ff&labelColor=0b1e3a)](https://github.com/dhruvmittal41)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-mittaldhruv41@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=c9e4ff&labelColor=0b1e3a)](mailto:mittaldhruv41@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9e4ff&labelColor=0b1e3a)](https://linkedin.com/in/dhruvmittal41)
+
+</div>
+
+---
+
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=dhruvmittal41&label=Profile+Views&color=6aaed6&style=flat-square&labelColor=0b1e3a)
+&nbsp;
+![Focus](https://img.shields.io/badge/Focus-Edge_AI_%26_Embedded-6aaed6?style=flat-square&labelColor=0b1e3a)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Building_at_the_Edge-6aaed6?style=flat-square&labelColor=0b1e3a)
+
+<br><br>
+
+> *"The best abstraction is the one closest to the hardware."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1155a6,50:0d3060,100:060c18&height=100&section=footer&reversal=true" width="100%"/>
 
 </div>
