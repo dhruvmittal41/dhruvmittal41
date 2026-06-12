@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Dhruv%20Mittal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bare-metal%20%C2%B7%20TinyML%20%C2%B7%20Silicon%20%C2%B7%20Edge%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/dhruvmittal41">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=6AAED6&center=true&vCenter=true&multiline=false&width=820&height=55&lines=%24+whoami+%E2%86%92+Electrical+Engineer+%40+IIT-bound+mindset;%24+cat+focus.log+%E2%86%92+Firmware+%C2%B7+TinyML+%C2%B7+RTL+Design;%24+./build+%E2%86%92+AI+accelerators+at+the+silicon+edge;%24+echo+%24MISSION+%E2%86%92+Make+chips+think.+Locally." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=6AAED6&center=true&vCenter=true&multiline=false&width=820&height=55&lines=%24+whoami+%E2%86%92+Electrical+Engineer+%40;%24+cat+focus.log+%E2%86%92+Firmware+%C2%B7+TinyML+%C2%B7+RTL+Design;%24+./build+%E2%86%92+AI+accelerators+at+the+silicon+edge;%24+echo+%24MISSION+%E2%86%92+Make+chips+think.+Locally." alt="Typing intro" />
 </a>
 
 <br/>
